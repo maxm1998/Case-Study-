@@ -12,7 +12,9 @@ Most recently, Apple has brought out their own payment system to the market, cal
 ## Technology Involved
 
 ## Why should we care?
+It is an important example of how a leading tech company is moving into consumer finance, using their existing products and platforms to innovate and make finance and payments more simple for all consumers on a large scale.
 
+It is more secure than a traditional credit card
 ## Prognosis
 
 ### Contributors
